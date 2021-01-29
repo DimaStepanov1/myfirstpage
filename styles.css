@@ -1,0 +1,17 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.line {
+    height: 2px;
+    background-color: black;
+    margin-bottom: 60px;
+}
